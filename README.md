@@ -53,6 +53,7 @@ Built and self-hosted the platform that powers Gotedo Vineyard, Gotedo Social, G
 | Project | Links |
 | --- | --- |
 | AI Auto-Translate Plugin for Strapi | [github.com/ndianabasi/strapi-plugin-ai-auto-translate](https://github.com/ndianabasi/strapi-plugin-ai-auto-translate) |
+| SWE Benchmarking Caching CLI | [github.com/ndianabasi/swe-cache-manager](https://github.com/ndianabasi/swe-cache-manager) |
 | PgBoss Plugin for Strapi | [github.com/ndianabasi/strapi-plugin-pgboss](https://github.com/ndianabasi/strapi-plugin-pgboss) |
 | FFmpeg Sidecar for Gotedo Impress | [github.com/Gotedo/gotedo-impress-ffmpeg-sidecar](https://github.com/Gotedo/gotedo-impress-ffmpeg-sidecar) |
 | Responsive Image Generation for AdonisJS | [npm](https://www.npmjs.com/package/adonis-responsive-attachment) · [GitHub](https://github.com/ndianabasi/adonis-responsive-attachment) |
